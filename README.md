@@ -3,7 +3,7 @@ Presentation about "NCCR-SYNAPSY NEUROIMAGING DMP Followup Meeting August 2021".
 
 It gives the agenda with links to the different presentations
 
-Interactive slides can be viewed at https://nccr-synapsy.github.io/synapsy-dmp-followup-meeting-08-2021/.
+Interactive slides can be viewed at https://nccr-synapsy.github.io/dmp-followup-meeting-08-2021/.
 
 Presented in the context of a followup Data Management Plan meeting of the NCCR-Synapsy project (https://nccr-synapsy.ch).
 
